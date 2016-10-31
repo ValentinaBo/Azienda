@@ -27,9 +27,9 @@ public class AziendaMain {
 			personaggioScelto = robert;
 		}
 		
+
 		System.out.println("Cosa vorresti fare? \n");
 
-		
 		
 		
 		
